@@ -4,7 +4,7 @@ import os
 import random
 
 pygame.init()
-width_screen = 900
+width_screen = 1200
 height_screen = 600
 
 
